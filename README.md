@@ -10,9 +10,13 @@ This project offers a practical application of advanced mathematical techniques 
 
 In essence, this project is a comprehensive exploration of the application of SVD and SVM in handwritten digit recognition using the MNIST dataset. It provides a unique opportunity to understand the relative strengths and weaknesses of these two approaches, potentially paving the way for future advancements in the field of image recognition.
 
-**Dataset**: [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+**Files**: 
+- Dataset - [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+- samples_hand - Own dataset with images
 
 **Author:** [Vladislav Polyakov](https://github.com/VladekQ)
+
+**Notebook:** [svd_mnist_classifier.ipynb](https://github.com/VladekQ/svm_svd_mnist_classifier/blob/main/svd_mnist_classifier.ipynb)
 
 ## Results & Conclusion
 <p align="center">
