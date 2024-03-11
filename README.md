@@ -12,7 +12,8 @@ In essence, this project is a comprehensive exploration of the application of SV
 
 **Files**: 
 - Dataset - [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
-- samples_hand - Own dataset with images
+- samples_hand.zip - Own dataset with images
+- mnist.npz - Dataset
 
 **Author:** [Vladislav Polyakov](https://github.com/VladekQ)
 
